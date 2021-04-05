@@ -2,6 +2,8 @@
 
 This project is initialized with [Ant Design Pro](https://pro.ant.design). Follow is the quick guide for how to use.
 
+集成自己组件的封装：src/pages/demo/
+
 ## Environment Prepare
 
 Install `node_modules`:
