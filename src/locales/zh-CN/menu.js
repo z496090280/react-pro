@@ -1,3 +1,11 @@
+/*
+ * @Descripttion: 
+ * @version: 
+ * @Author: daping
+ * @Date: 2021-04-05 13:41:29
+ * @LastEditors: daping
+ * @LastEditTime: 2021-04-14 23:12:15
+ */
 export default {
   'menu.welcome': '欢迎',
   'menu.more-blocks': '更多区块',
@@ -51,4 +59,5 @@ export default {
   'menu.editor.koni': '拓扑编辑器',
   'menu.demo': 'Demo页',
   'menu.demo.dialog': 'dialog组件',
+  'menu.demo.example': 'props render',
 };

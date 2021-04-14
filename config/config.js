@@ -330,8 +330,15 @@ export default defineConfig({
                   path: '/demo/dialog',
                   component: './demo/dialog',
                 },
+                {
+                  name: 'example',
+                  icon: 'smile',
+                  path: '/demo/example',
+                  component: './demo/example',
+                }
               ],
             },
+
             {
               component: '404',
             },
