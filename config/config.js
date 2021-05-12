@@ -335,6 +335,12 @@ export default defineConfig({
                   icon: 'smile',
                   path: '/demo/example',
                   component: './demo/example',
+                },
+                {
+                  name: 'sort',
+                  icon: 'smile',
+                  path: '/demo/sortCmp',
+                  component: './demo/sortCmp',
                 }
               ],
             },
